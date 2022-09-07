@@ -9,3 +9,15 @@ The platform of Yahoo Finance was employed to take action. This site is one of t
 ### Purpose of the Project
 
 The purpose of this project is to analyze if the Long Short Term Memory model can be applied and used effectively to predict the future price of the Apple stock. With this information we could also predict if an investment on Apple would be a good alternative for long term investors. For now the opportunity of investment will be based on numerical values and it´s trend. 
+
+### Database
+
+As mentioned, the platform of Yahoo Finance was used to retrieve the data for the stock of Apple Inc. The information was redeemed from the 1st of January 2012 to the 17th of December of 2019. The database was fulfilled by the daily price stocks of the company throughout almost 8 years. 
+
+* Insert Date_Stock*
+
+On the next image, the behavoir of the stock throughout the last years it can be visualized:
+
+* Insert Stock History*
+
+
