@@ -28,7 +28,7 @@ To create the data scaled training it was divided into the x_train and the y_tra
 
 * Insert the split x-y-train*
 
-
+As for the model choice, as mentioned before, the Long Short Term Memory model was applied. 
 
 
 
