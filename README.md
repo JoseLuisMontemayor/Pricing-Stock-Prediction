@@ -20,4 +20,18 @@ On the next image, the behavoir of the stock throughout the last years it can be
 
 * Insert Stock History*
 
+### Code
+
+It is important to mention, is that it was established that the amount of the data to train the model is about 80%.
+
+To create the data scaled training it was divided into the x_train and the y_train, which x_train is our independent training variable and y_train the dependent. On the x_train variable, the last 60 values were appended from position 0 to position 59, while the y_train contains the 61st value which is at position 60. On the code below it can be seen how it goes.
+
+* Insert the split x-y-train*
+
+
+
+
+
+
+
 
