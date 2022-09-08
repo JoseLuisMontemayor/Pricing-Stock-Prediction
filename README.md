@@ -46,6 +46,13 @@ After all, now we can see the viualization of tha actual model. The blue line de
 
 * Insert Visualization Model *
 
+As part of the activity, a test was ran to verify the predicted and actual data of the price stock of the 18th of December in 2019. On the image below we can see that the predicted price reaches $64.60, and the actual price of that day is $69.93, a difference of less than $5.50 or less than 8%. We can see that the model is close but still with an opportunity margin to take into account. 
+
+* Insert Run Test *
+
+### Conclusion
+
+It can be concluded based on the results of the model that it may be effective if utilized for a long term investment. We saw at the end that the results had a margin of opportunity, but it has to be taken into account that it ran over the same tendency that it showed in the image comparing through the actual and predicted months. Also, (not financial advice) Apple stock may be a good opportunity for a long term investment, since it can be seen that throughout the years it has been growing continuously. The model should also be applied to other stocks in the industry to analyze the reliance and the level of error that it may contain. Improvements based on trial and error can benefit significantly the predictions.  
 
 
 
