@@ -18,7 +18,7 @@ As mentioned, the platform of Yahoo Finance was used to retrieve the data for th
 
 On the next image, the behavoir of the stock throughout the last years it can be visualized:
 
-* Insert Stock History*
+![](https://github.com/JoseLuisMontemayor/Pricing-Stock-Prediction/blob/main/Resources/2.%20Stock_History.PNG)
 
 ### Code
 
