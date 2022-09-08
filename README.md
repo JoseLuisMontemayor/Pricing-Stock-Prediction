@@ -32,7 +32,7 @@ As for the model choice, as mentioned before, the Long Short Term Memory model w
 
 As mentioned, the Long Short Term Memory model was in use, utilizing for the architecture 2 LSTM layers with 50 neurons and 2 Dense layers with 25 and 1 neurons. This with the purpose of the flow of the model. 
 
-* Insert LSTM Model*
+![](https://github.com/JoseLuisMontemayor/Pricing-Stock-Prediction/blob/main/Resources/4.%20LSTM%20Model.PNG)
 
 For the training of the model, the x and y train variables were taken into account, as well as a batch size of 1 (total number of training examples in a single batch) and 1 epoch (The number of iterations when an entire dataset passes through a neuro network). For the testing data, the last 60 values are appended to the x_test to train the model. The y_test are all of the values that are wanted the model to predict, the actual test values. 
 
