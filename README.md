@@ -26,7 +26,7 @@ It is important to mention, is that it was established that the amount of the da
 
 To create the data scaled training it was divided into the x_train and the y_train, which x_train is our independent training variable and y_train the dependent. On the x_train variable, the last 60 values were appended from position 0 to position 59, while the y_train contains the 61st value which is at position 60. On the code below it can be seen how it goes.
 
-* Insert the split x-y-train*
+![](https://github.com/JoseLuisMontemayor/Pricing-Stock-Prediction/blob/main/Resources/3.%20Split%20x-y-train.PNG)
 
 As for the model choice, as mentioned before, the Long Short Term Memory model was applied. This is one type of time series analysis, which has a significance in financial analytic and forecasting any type of data in any field. It is a type of recurrent neural network capable of learning order dependence in sequence prediction problems, this means that the outputs are used along with the next elements as the inputs for the next step of information processing. The advantage of the LSTM model is that it adds long-term memory in an even more performant way, since it allows even more parameters to be taken into account it makes the most of the recurrent network, making it more powerful and accurate in a forecasts. The disadvantages are that the model may take longer to train and requiere more memory, as the same that LSTMs are sensitive to different random weight initializations.
 
