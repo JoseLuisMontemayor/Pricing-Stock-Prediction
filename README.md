@@ -28,7 +28,9 @@ To create the data scaled training it was divided into the x_train and the y_tra
 
 * Insert the split x-y-train*
 
-As for the model choice, as mentioned before, the Long Short Term Memory model was applied. 
+As for the model choice, as mentioned before, the Long Short Term Memory model was applied. This is one type of time series analysis, which has a significance in financial analytic and forecasting any type of data in any field. It is a type of recurrent neural network capable of learning order dependence in sequence prediction problems, this means that the outputs are used along with the next elements as the inputs for the next step of information processing. 
+
+It was considered an adequate choice to predict the future price of Apple.  
 
 
 
