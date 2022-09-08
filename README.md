@@ -40,7 +40,7 @@ For the training of the model, the x and y train variables were taken into accou
 
 To evaluate the model, the measure of the Root Mean Squared Error (RMSE) was used to determine how accurate the model predicts the response. The RMSE model is the standard deviation of the residuals, it tells you how concentrated the data is around the line of best fit. The lower value of this number indicates a better fit. We can see below that the result for the model is 1.527, which can be interpreted as a good result for the established metrics. 
 
-* Insert Root Mean Squared Error* 
+![](https://github.com/JoseLuisMontemayor/Pricing-Stock-Prediction/blob/main/Resources/6.%20Root%20Mean%20Squared%20Error.PNG)
 
 After all, now we can see the viualization of tha actual model. The blue line defines the data on which the information was trained on, the red line indicates the actual closing stock price for Apple for the rest of the days, and the yellow line represents the projections of the model. It can be seen that the validation and predicted data are actually similar, and have the same tendency regarding movements regarding the days viewed. 
 
