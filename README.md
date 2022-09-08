@@ -34,6 +34,10 @@ As mentioned, the Long Short Term Memory model was in use, utilizing for the arc
 
 * Insert LSTM Model*
 
+For the training of the model, the x and y train variables were taken into account, as well as a batch size of 1 (total number of training examples in a single batch) and 1 epoch (The number of iterations when an entire dataset passes through a neuro network). For the testing data, the last 60 values are appended to the x_test to train the model. The y_test are all of the values that are wanted the model to predict, the actual test values. 
+
+* Insert Train_Test Mode*
+
 
 
 It was considered an adequate choice to predict the future price of Apple. In regard of the training of the model, it was trained to a loop window within the last 60 values before the observation in question. The x variable functions as the independent variable and the y variable as the dependent
