@@ -48,7 +48,7 @@ After all, now we can see the viualization of tha actual model. The blue line de
 
 As part of the activity, a test was ran to verify the predicted and actual data of the price stock of the 18th of December in 2019. On the image below we can see that the predicted price reaches $64.60, and the actual price of that day is $69.93, a difference of less than $5.50 or less than 8%. We can see that the model is close but still with an opportunity margin to take into account. 
 
-* Insert Run Test *
+![](https://github.com/JoseLuisMontemayor/Pricing-Stock-Prediction/blob/main/Resources/8.%20Run%20Test.PNG)
 
 ### Conclusion
 
