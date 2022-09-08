@@ -28,9 +28,15 @@ To create the data scaled training it was divided into the x_train and the y_tra
 
 * Insert the split x-y-train*
 
-As for the model choice, as mentioned before, the Long Short Term Memory model was applied. This is one type of time series analysis, which has a significance in financial analytic and forecasting any type of data in any field. It is a type of recurrent neural network capable of learning order dependence in sequence prediction problems, this means that the outputs are used along with the next elements as the inputs for the next step of information processing. 
+As for the model choice, as mentioned before, the Long Short Term Memory model was applied. This is one type of time series analysis, which has a significance in financial analytic and forecasting any type of data in any field. It is a type of recurrent neural network capable of learning order dependence in sequence prediction problems, this means that the outputs are used along with the next elements as the inputs for the next step of information processing. The advantage of the LSTM model is that it adds long-term memory in an even more performant way, since it allows even more parameters to be taken into account it makes the most of the recurrent network, making it more powerful and accurate in a forecasts. The disadvantages are that the model may take longer to train and requiere more memory, as the same that LSTMs are sensitive to different random weight initializations.
 
-It was considered an adequate choice to predict the future price of Apple.  
+As mentioned, the Long Short Term Memory model was in use, utilizing for the architecture 2 LSTM layers with 50 neurons and 2 Dense layers with 25 and 1 neurons. This with the purpose of the flow of the model. 
+
+* Insert LSTM Model*
+
+
+
+It was considered an adequate choice to predict the future price of Apple. In regard of the training of the model, it was trained to a loop window within the last 60 values before the observation in question. The x variable functions as the independent variable and the y variable as the dependent
 
 
 
