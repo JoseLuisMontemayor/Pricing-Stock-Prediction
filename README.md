@@ -8,6 +8,8 @@ The platform of Yahoo Finance was employed to take action. This site is one of t
 
 Link to PPT: https://docs.google.com/presentation/d/1ZuNw5GRWOOs0pZLTcXs5W2V-zNxsyXQ9cqAgHOuuDhM/edit?usp=sharing
 
+Link to Dashboard: https://public.tableau.com/app/profile/jose.luis.montemayor/viz/Dashboard-AppleStock/Dashboard-AppleStock
+
 ### Purpose of the Project
 
 The purpose of this project is to analyze if the Long Short Term Memory model can be applied and used effectively to predict the future price of the Apple stock. With this information we could also predict if an investment on Apple would be a good alternative for long term investors. For now the opportunity of investment will be based on numerical values and it´s trend. 
