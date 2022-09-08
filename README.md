@@ -14,7 +14,7 @@ The purpose of this project is to analyze if the Long Short Term Memory model ca
 
 As mentioned, the platform of Yahoo Finance was used to retrieve the data for the stock of Apple Inc. The information was redeemed from the 1st of January 2012 to the 17th of December of 2019. The database was fulfilled by the daily price stocks of the company throughout almost 8 years. 
 
-* Insert Date_Stock*
+![](https://github.com/JoseLuisMontemayor/Pricing-Stock-Prediction/blob/main/Resources/1.%20Dates_Stock.PNG)
 
 On the next image, the behavoir of the stock throughout the last years it can be visualized:
 
