@@ -1,4 +1,4 @@
-# Pricing-Stock-Prediction
+# Stock Pricing Prediction
 
 ### Introduction
 
