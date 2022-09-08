@@ -44,7 +44,7 @@ To evaluate the model, the measure of the Root Mean Squared Error (RMSE) was use
 
 After all, now we can see the viualization of tha actual model. The blue line defines the data on which the information was trained on, the red line indicates the actual closing stock price for Apple for the rest of the days, and the yellow line represents the projections of the model. It can be seen that the validation and predicted data are actually similar, and have the same tendency regarding movements regarding the days viewed. 
 
-* Insert Visualization Model *
+![](https://github.com/JoseLuisMontemayor/Pricing-Stock-Prediction/blob/main/Resources/7.%20Visualization%20Model.PNG)
 
 As part of the activity, a test was ran to verify the predicted and actual data of the price stock of the 18th of December in 2019. On the image below we can see that the predicted price reaches $64.60, and the actual price of that day is $69.93, a difference of less than $5.50 or less than 8%. We can see that the model is close but still with an opportunity margin to take into account. 
 
